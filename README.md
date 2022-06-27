@@ -11,7 +11,7 @@ Olá, eu sou Sergio Alejandro Arboleda, aluno do curso staart
 - Academia 
 - Mecanica de motos
 
-## Atualmente estudado 
+## Atualmente estudando 
 
 - desenvolvimento front- end
 - desenvolvimento black- end
