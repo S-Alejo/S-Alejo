@@ -1,6 +1,8 @@
 # Bem-vindo(a) ao meu perfil 
 
-Olá, eu sou Sergio Alejandro Arboleda 
+Olá, eu sou Sergio Alejandro Arboleda, aluno do curso staart
+
+![Avatares-Comunidad-Xbox-1](https://user-images.githubusercontent.com/108249800/175984167-b0b92326-856d-431a-8dea-1a82709d1ebd.jpg)
 
 ## Meus Hobbes 
 
@@ -11,9 +13,9 @@ Olá, eu sou Sergio Alejandro Arboleda
 
 ## Atualmente estudado 
 
-- Git e Github
-- React
-- Java script 
+- desenvolvimento front- end
+- desenvolvimento black- end
+
 
 ## Meus contatos 
 
